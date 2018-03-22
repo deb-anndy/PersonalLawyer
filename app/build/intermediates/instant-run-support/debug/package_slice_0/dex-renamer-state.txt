@@ -1,0 +1,4 @@
+#Thu Mar 22 14:21:45 IST 2018
+base.0=C\:\\Users\\Kunal Natekar\\Desktop\\aswant\\PersonalLawyer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
